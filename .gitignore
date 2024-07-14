@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#manim stuff
+media/
+
 # C extensions
 *.so
 
